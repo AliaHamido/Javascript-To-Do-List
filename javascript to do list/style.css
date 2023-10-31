@@ -1,0 +1,46 @@
+html, body {
+    width: 50%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgrey;
+}
+
+.container {
+    width: 500px; 
+}
+
+input.inputField{
+width: 100px;
+height:200px ;
+border: 1px solid black;
+outline: none;
+font-size: 25px;
+vertical-align: middle;
+}
+
+.addToDo {
+    width: 50px;
+height:50px ;
+border: 1px solid black;
+vertical-align: middle;
+font-size: 30px;
+}
+
+.to-dos {
+
+    margin-top: 25px;
+
+}
+
+.paragraph-styling{
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.date {
+
+    margin-top: 25px;
+
+}
+
